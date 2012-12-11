@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://nathalieodiot.com/</loc>
+  <lastmod>2012-08-06T22:07:57+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://nathalieodiot.com/architecture/style-vie-dessin.html</loc>
+  <lastmod>2012-08-06T22:07:57+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://nathalieodiot.com/architecture/corps-espace-architectural.html</loc>
+  <lastmod>2012-08-06T22:07:57+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://nathalieodiot.com/architecture/collaborations-architectes.html</loc>
+  <lastmod>2012-08-06T22:07:57+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://nathalieodiot.com/architecture/design-petits-espaces.html</loc>
+  <lastmod>2012-08-06T22:07:57+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://nathalieodiot.com/architecture/materiaux-artisans.html</loc>
+  <lastmod>2012-08-06T22:07:57+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://nathalieodiot.com/architecture/concept-realisation.html</loc>
+  <lastmod>2012-08-06T22:07:57+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+</urlset>
